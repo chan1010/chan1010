@@ -1,6 +1,9 @@
 ### Hi there 👋
-<img src="https://github.com/chan1010/chan1010/issues/1#issue-922571008">
+<img src="https://user-images.githubusercontent.com/69392580/122225883-a79c4f80-cedf-11eb-8f63-ef7ca51886cf.png" alt="banner">
+
+
 <!--
+![banner](https://user-images.githubusercontent.com/69392580/122225883-a79c4f80-cedf-11eb-8f63-ef7ca51886cf.png)
 **chan1010/chan1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
