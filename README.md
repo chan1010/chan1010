@@ -1,10 +1,13 @@
-### Hi there 👋
-<img src="https://user-images.githubusercontent.com/69392580/122225883-a79c4f80-cedf-11eb-8f63-ef7ca51886cf.png" alt="banner">
+![banner](https://user-images.githubusercontent.com/69392580/122225883-a79c4f80-cedf-11eb-8f63-ef7ca51886cf.png)
+### Hi, My name Chan 👋
+#### Contact me 
+
 
 
 <!--
 ![banner](https://user-images.githubusercontent.com/69392580/122225883-a79c4f80-cedf-11eb-8f63-ef7ca51886cf.png)
 **chan1010/chan1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://user-images.githubusercontent.com/69392580/122225883-a79c4f80-cedf-11eb-8f63-ef7ca51886cf.png" alt="banner">
 
 Here are some ideas to get you started:
 
