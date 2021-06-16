@@ -1,6 +1,11 @@
 ![banner](https://user-images.githubusercontent.com/69392580/122225883-a79c4f80-cedf-11eb-8f63-ef7ca51886cf.png)
 ### Hi, My name Chan 👋
-#### Contact me 
+#### Contact me 🌏
+#🌳 <a href="https://www.instagram.com/p.t_h.t/"> Instagram</a> <br>
+#🍄 <a href="https://www.facebook.com/shomi.ptht/"> FaceBook</a> <br>
+#🌵 <a href="https://twitter.com/PhamChan9"> Twitter</a> <br>
+#🌻  <br>
+#🐾  <br>
 
 
 
