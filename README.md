@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/69392580/122225883-a79c4f80-cedf-11eb-8f63-ef7ca51886cf.png)
+![banner](https://user-images.githubusercontent.com/69392580/122252061-43848600-cef5-11eb-93ea-65dd55364498.png)
 ### Hi, My name Chan 👋
 #### Contact me 🌏
 #🌳 <a href="https://www.instagram.com/p.t_h.t/"> Instagram</a> <br>
